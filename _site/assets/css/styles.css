@@ -1,4 +1,4 @@
-body { background: #ffffff; color: #000000; font-family: "Raleway"; }
+body { background: #ffffff; color: #000000; font-family: "Raleway", sans-serif; font-weight: 300; }
 
 .square { aspect-ratio: 1/1; }
 
@@ -7,5 +7,11 @@ body { background: #ffffff; color: #000000; font-family: "Raleway"; }
 .footer-title { color: #ffd966; }
 
 .navbar { font-family: Calibri; }
+
+.footer { font-family: Calibri; }
+
+ul { list-style-type: square; }
+
+ul li { color: #5b9bd5; }
 
 /*# sourceMappingURL=styles.css.map */
