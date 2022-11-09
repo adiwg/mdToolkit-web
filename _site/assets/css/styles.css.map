@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import '_sass/main';",
+		"$backgroundColor: #ffffff;\n$bodyColor: #000000;\n$bodyFont: \"Raleway\";\n\nbody {\n  background: $backgroundColor;\n  color: $bodyColor;\n  font-family: $bodyFont;\n}\n\n.square {\n  aspect-ratio: 1/1;\n}\n\n.nav-link {\n  color: #ffd966;\n}\n\n.footer-title {\n  color: #ffd966;\n}\n\n.navbar {\n  font-family: Calibri;\n}"
+	],
+	"names": [],
+	"mappings": "ACIA,AAAA,IAAI,CAAC,EACH,UAAU,EALM,OAAO,EAMvB,KAAK,EALK,OAAO,EAMjB,WAAW,EALF,SAAS,GAMnB;;AAED,AAAA,OAAO,CAAC,EACN,YAAY,EAAE,GAAG,GAClB;;AAED,AAAA,SAAS,CAAC,EACR,KAAK,EAAE,OAAO,GACf;;AAED,AAAA,aAAa,CAAC,EACZ,KAAK,EAAE,OAAO,GACf;;AAED,AAAA,OAAO,CAAC,EACN,WAAW,EAAE,OAAO,GACrB"
+}
