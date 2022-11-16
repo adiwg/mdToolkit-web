@@ -7,8 +7,8 @@
 	],
 	"sourcesContent": [
 		"@import '_sass/main';",
-		"$backgroundColor: #ffffff;\n$bodyColor: #000000;\n$bodyFont: 'Raleway', sans-serif;\n\nbody {\n  background: $backgroundColor;\n  color: $bodyColor;\n  font-family: $bodyFont;\n  font-weight: 300;\n}\n\n.square {\n  aspect-ratio: 1/1;\n}\n\n.nav-link {\n  color: #ffd966;\n}\n\n.footer-title {\n  color: #ffd966;\n}\n\n.navbar {\n  font-family: Calibri;\n}\n\n.footer {\n  font-family: Calibri;\n}\n\nul {\n  list-style-type: square;\n}\n\nul li {\n  color: #5b9bd5;\n}"
+		"$backgroundColor: #ffffff;\n$bodyColor: #000000;\n$bodyFont: 'Raleway', sans-serif;\n\nbody {\n  background: $backgroundColor;\n  color: $bodyColor;\n  font-family: $bodyFont;\n  font-weight: 300;\n}\n\n.square {\n  aspect-ratio: 1/1;\n  border-radius: 5%;\n}\n\n.nav-link {\n  color: #ffd966;\n}\n\n.footer-title {\n  color: #ffd966;\n}\n\n.navbar {\n  font-family: Calibri;\n}\n\n.footer {\n  font-family: Calibri;\n}\n\nul {\n  list-style-type: square;\n}\n\nul li {\n  color: #5b9bd5;\n}"
 	],
 	"names": [],
-	"mappings": "ACIA,AAAA,IAAI,CAAC,EACH,UAAU,EALM,OAAO,EAMvB,KAAK,EALK,OAAO,EAMjB,WAAW,EALF,SAAS,EAAE,UAAU,EAM9B,WAAW,EAAE,GAAG,GACjB;;AAED,AAAA,OAAO,CAAC,EACN,YAAY,EAAE,GAAG,GAClB;;AAED,AAAA,SAAS,CAAC,EACR,KAAK,EAAE,OAAO,GACf;;AAED,AAAA,aAAa,CAAC,EACZ,KAAK,EAAE,OAAO,GACf;;AAED,AAAA,OAAO,CAAC,EACN,WAAW,EAAE,OAAO,GACrB;;AAED,AAAA,OAAO,CAAC,EACN,WAAW,EAAE,OAAO,GACrB;;AAED,AAAA,EAAE,CAAC,EACD,eAAe,EAAE,MAAM,GACxB;;AAED,AAAA,EAAE,CAAC,EAAE,CAAC,EACJ,KAAK,EAAE,OAAO,GACf"
+	"mappings": "ACIA,AAAA,IAAI,CAAC,EACH,UAAU,EALM,OAAO,EAMvB,KAAK,EALK,OAAO,EAMjB,WAAW,EALF,SAAS,EAAE,UAAU,EAM9B,WAAW,EAAE,GAAG,GACjB;;AAED,AAAA,OAAO,CAAC,EACN,YAAY,EAAE,GAAG,EACjB,aAAa,EAAE,EAAE,GAClB;;AAED,AAAA,SAAS,CAAC,EACR,KAAK,EAAE,OAAO,GACf;;AAED,AAAA,aAAa,CAAC,EACZ,KAAK,EAAE,OAAO,GACf;;AAED,AAAA,OAAO,CAAC,EACN,WAAW,EAAE,OAAO,GACrB;;AAED,AAAA,OAAO,CAAC,EACN,WAAW,EAAE,OAAO,GACrB;;AAED,AAAA,EAAE,CAAC,EACD,eAAe,EAAE,MAAM,GACxB;;AAED,AAAA,EAAE,CAAC,EAAE,CAAC,EACJ,KAAK,EAAE,OAAO,GACf"
 }
