@@ -2,6 +2,8 @@ body { background: #ffffff; color: #000000; font-family: "Raleway", sans-serif; 
 
 .square { aspect-ratio: 1/1; border-radius: 5%; max-height: 612px; max-width: 612px; }
 
+.box { border-radius: 25px; }
+
 .nav-link { color: #ffd966; }
 
 .footer-title { color: #ffd966; }
