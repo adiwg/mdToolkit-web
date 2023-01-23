@@ -4,7 +4,9 @@ body { background: #ffffff; color: #000000; font-family: "Raleway", sans-serif; 
 
 .text-neonblue { color: #00b0f0; }
 
-.text-neonyellow { color: #ffd966; }
+.text-neonyellow { color: #ffe666; }
+
+.bg-charcoal { background-color: #1c1e22; }
 
 .box { border-radius: 25px; }
 
