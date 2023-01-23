@@ -21,3 +21,5 @@ body { background: #ffffff; color: #000000; font-family: "Raleway", sans-serif; 
 ul { list-style-type: square; }
 
 ul li { color: #5b9bd5; }
+
+.toolsList:hover { background-color: lightgray; }
