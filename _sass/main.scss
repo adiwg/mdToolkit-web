@@ -9,7 +9,7 @@ body {
   font-weight: 300;
 }
 
-.carousel-item:after {
+.carousel-item::after {
   content: "";
   position: absolute;
   top: 0;
@@ -19,8 +19,7 @@ body {
   background: rgba(0, 0, 0, 0.6);
 }
 
-.carousel-inner,
-.carousel-item {
+.fixed-image-height {
   max-height: 700px;
 }
 

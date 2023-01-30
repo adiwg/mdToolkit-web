@@ -1,8 +1,8 @@
 body { background: #ffffff; color: #000000; font-family: "Raleway", sans-serif; font-weight: 300; }
 
-.carousel-item:after { content: ""; position: absolute; top: 0; bottom: 0; left: 0; right: 0; background: rgba(0, 0, 0, 0.6); }
+.carousel-item::after { content: ""; position: absolute; top: 0; bottom: 0; left: 0; right: 0; background: rgba(0, 0, 0, 0.6); }
 
-.carousel-inner, .carousel-item { max-height: 700px; }
+.fixed-image-height { max-height: 700px; }
 
 .square { aspect-ratio: 1/1; border-radius: 5%; max-height: 612px; max-width: 612px; }
 
