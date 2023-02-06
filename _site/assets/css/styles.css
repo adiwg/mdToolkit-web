@@ -2,7 +2,7 @@ body { background: #ffffff; color: #000000; font-family: "Raleway", sans-serif; 
 
 .carousel-item::after { content: ""; position: absolute; top: 0; bottom: 0; left: 0; right: 0; background: rgba(0, 0, 0, 0.2); }
 
-.fixed-image-height { max-height: 700px; }
+.fixed-image-height { max-height: 650px; }
 
 .square { aspect-ratio: 1/1; border-radius: 5%; max-height: 612px; max-width: 612px; }
 
