@@ -77,5 +77,10 @@ ul li {
 @media (max-width: 480px) {
   .smaller-font {
     font-size: 12px !important;
+    margin-bottom: 0;
+  }
+
+  .smaller-header-font {
+    font-size: 16px !important;
   }
 }
