@@ -73,3 +73,9 @@ ul li {
 .toolsList:hover {
   background-color: lightgray;
 }
+
+@media (max-width: 480px) {
+  .smaller-font {
+    font-size: 12px !important;
+  }
+}
