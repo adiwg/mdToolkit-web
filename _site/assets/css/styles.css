@@ -12,6 +12,8 @@ body { background: #ffffff; color: #000000; font-family: "Raleway", sans-serif; 
 
 .bg-charcoal { background-color: #1c1e22; }
 
+.bg-dark { background-color: #262a2e !important; }
+
 .box { border-radius: 25px; }
 
 .nav-link { color: #ffd966; }
