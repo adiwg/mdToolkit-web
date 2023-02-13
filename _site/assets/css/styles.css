@@ -4,8 +4,6 @@ body { background: #ffffff; color: #000000; font-family: "Raleway", sans-serif; 
 
 .fixed-image-height { max-height: 650px; }
 
-.square { aspect-ratio: 1/1; border-radius: 5%; max-height: 612px; max-width: 612px; }
-
 .text-neonblue { color: #00b0f0; }
 
 .text-neonyellow { color: #ffe666; }
