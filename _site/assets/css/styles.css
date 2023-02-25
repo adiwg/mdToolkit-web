@@ -28,5 +28,5 @@ ul li { color: #5b9bd5; }
 
 .toolsList:hover { background-color: lightgray; }
 
-@media (max-width: 480px) { .smaller-font { font-size: 12px !important; margin-bottom: 0; }
+@media (max-width: 480px) { .smaller-font { font-size: 10px !important; margin-bottom: 0; }
   .smaller-header-font { font-size: 16px !important; } }
