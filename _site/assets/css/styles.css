@@ -31,3 +31,5 @@ ul li { color: #5b9bd5; }
 @media (max-width: 480px) { .smaller-font { font-size: 10px !important; margin-bottom: 0; }
   .smaller-header-font { font-size: 16px !important; } }
 .top-below { top: 10%; }
+
+.btn { height: 48.6px; min-width: 181.86px; }
