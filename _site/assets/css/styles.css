@@ -4,9 +4,19 @@ body { background: #ffffff; color: #000000; font-family: "Raleway", sans-serif; 
 
 .fixed-image-height { max-height: 650px; }
 
+.text-blue { color: #0071c4; }
+
 .text-neonblue { color: #00b0f0; }
 
 .text-neonyellow { color: #ffe666; }
+
+.text-neongreen { color: #92d050; }
+
+.bg-green { background-color: #77b550; }
+
+.bg-neongreen { background-color: #92d050; }
+
+.bg-yellow { background-color: #ffd966; }
 
 .bg-charcoal { background-color: #1c1e22; }
 
@@ -34,6 +44,20 @@ ul li { color: #5b9bd5; }
 
 .btn { height: 48.6px !important; min-width: 181.86px !important; }
 
-.usgs-logo { height: 50px; }
+.usgs-logo, .img-50 { height: 50px; }
+
+.img-30 { height: 30px; }
+
+.img-35 { height: 35px; }
+
+.img-60 { height: 60px; }
+
+.img-75 { height: 75px; }
 
 .fws-logo { height: 75px; }
+
+.code-logo-20 { height: 20px; }
+
+.code-logo-32 { height: 32px; }
+
+.mt-100 { margin-top: 100px; }
