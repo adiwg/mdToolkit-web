@@ -46,6 +46,8 @@ ul li { color: #5b9bd5; }
 
 .btn { height: 48.6px !important; min-width: 181.86px !important; }
 
+.square-img { max-height: 300px; }
+
 .usgs-logo, .img-50 { height: 50px; }
 
 .img-30 { height: 30px; }
