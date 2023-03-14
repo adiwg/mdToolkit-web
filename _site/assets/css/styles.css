@@ -1,4 +1,4 @@
-body { background: #ffffff; color: #000000; font-family: "Raleway", sans-serif; font-weight: 300; }
+body { background: #1c1e22; color: #000000; font-family: "Raleway", sans-serif; font-weight: 300; }
 
 .carousel-item::after { content: ""; position: absolute; top: 0; bottom: 0; left: 0; right: 0; background: rgba(0, 0, 0, 0.15); }
 
@@ -65,5 +65,3 @@ ul li { color: #5b9bd5; }
 .code-logo-20 { height: 20px; }
 
 .code-logo-32 { height: 32px; }
-
-.mt-100 { margin-top: 100px; }
